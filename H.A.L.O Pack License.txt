@@ -1,0 +1,98 @@
+H.A.L.O. Pack License Agreement (EULA)
+Copyright (c) 2025 ReForge Mode
+Store Pages:
+- H.A.L.O. Pack Lite: https://ko-fi.com/s/3dcc731d28
+- H.A.L.O. Pack PRO: https://ko-fi.com/s/fa4b62815f
+
+END-USER LICENSE AGREEMENT (EULA)
+
+SUMMARY:
+Feel free to use H.A.L.O. Pack however you want for personal or commercial projects. Please do not distribute or share it freely with unpaid users or sell it to others. No matter how much you change it, you cannot claim you made it yourself. H.A.L.O. Pack will keep receiving updates and lifetime support, which helps me create more tools for everyone.
+
+⚠ Important: This is a non-refundable digital product. A free version is available for testing before purchase. Please make sure it meets your needs before buying.
+
+IMPORTANT: PLEASE READ THIS AGREEMENT CAREFULLY BEFORE USING H.A.L.O. PACK.
+
+1. DEFINITIONS
+   - "Licensor" refers to ReForge Mode.
+   - "Licensee" refers to you, the end-user who has purchased a license for H.A.L.O. Pack.
+   - "H.A.L.O. Pack" refers to the digital product, including all of its components, files, code, animations, documentation, and any updates or derivative works provided by the Licensor.
+   - "Distribution" includes any act of sharing, giving away, uploading, posting, or otherwise transferring H.A.L.O. Pack or any part of it to any person who has not purchased or been authorized by the Licensor.
+
+2. GRANT OF LICENSE
+   Licensor grants Licensee a non-exclusive, non-transferable license to use H.A.L.O. Pack under the terms of this Agreement.
+
+3. RESTRICTIONS
+   Licensee shall not, without Licensor's prior written consent:
+   a. Distribute, sublicense, lease, rent, sell, bundle, or otherwise transfer H.A.L.O. Pack or any portion of it to any third party.
+   b. Share or distribute H.A.L.O. Pack to users who have not purchased or been authorized by Licensor, including sharing in private groups, communities, or file-sharing platforms.
+   c. Distribute modified or derivative versions of H.A.L.O. Pack without explicit permission.
+   d. Reverse Engineering and Extraction
+      Licensee may not reverse engineer, decompile, or extract H.A.L.O. Pack or any of its components for the purpose of redistribution, resale, or unauthorized sharing. Personal experimentation or learning is allowed, provided no part of H.A.L.O. Pack is shared with others.
+
+4. TUTORIALS & MEDIA USE
+   - You may create tutorials, guides, or media content using H.A.L.O. Pack, even if the media shows portions of the product.
+   - Redistribution of the full pack or modified versions is not allowed, even if included in tutorials.
+
+5. OWNERSHIP AND INTELLECTUAL PROPERTY
+   Licensor retains all ownership and intellectual property rights in and to H.A.L.O. Pack, including any improvements or modifications.
+
+6. NO FALSE ATTRIBUTION OR MISREPRESENTATION
+   Licensee may not:
+   - Claim authorship or ownership of H.A.L.O. Pack, its code, animations, or any part of it, whether in original, modified, or derivative form.
+   - Present modified or derivative works of H.A.L.O. Pack as their own original creation.
+   - Remove, alter, or obscure any credits, watermarks, or notices included with H.A.L.O. Pack.
+   - Misrepresent the origin of H.A.L.O. Pack in public media (streams, videos, screenshots, showcases, or marketplaces) or imply that they created the pack themselves.
+
+   Attribution: Not required, but appreciated. If you wish to credit, please mention “H.A.L.O. Pack by ReForge Mode” with a link to the Ko-fi page and ReForge Mode YouTube channel.
+
+7. LICENSEE RIGHTS
+   Licensee may:
+   - Use and modify H.A.L.O. Pack for personal or commercial purposes, including creating commissioned works or monetized content using H.A.L.O. Pack.
+   - Install and use H.A.L.O. Pack on multiple devices for personal use, provided this does not result in unauthorized distribution.
+
+8. UPDATES AND SUPPORT
+   - Licensor may provide updates, patches, and improvements to H.A.L.O. Pack at no additional cost to Licensees who have purchased it.
+   - Licensor may offer support and assistance but is not obligated to do so.
+
+   Compatibility Disclaimer:
+   - H.A.L.O. Pack is provided as-is, without guarantee of compatibility with every system or software version.
+   - Licensees are responsible for testing the free version before purchase to ensure it works with their environment.
+
+9. REFUND POLICY
+   H.A.L.O. Pack is a non-refundable digital product. By purchasing, you acknowledge that:
+   - This is a digital file that cannot be “returned” once downloaded.
+   - Under EU law, you normally have a 14-day right to cancel a digital purchase, but you lose this right if you agree to receive the product immediately.
+   - By purchasing H.A.L.O. Pack, you agree to immediate access and waive your right to cancel or request a refund, even if you have not downloaded or used it.
+   - A free version is provided so you can test the product before purchase. It is your responsibility to review the store page, tutorials, and documentation before buying.
+   
+   Note: Once purchased, I cannot issue refunds for software products due to the risk of refund abuse, as digital files cannot be “returned” once delivered.
+
+10. TERMINATION
+    This Agreement remains effective until terminated. Licensor may terminate this license if Licensee breaches any terms. Upon termination, Licensee must immediately cease unauthorized use and distribution of H.A.L.O. Pack.
+
+11. DISCLAIMER OF WARRANTY
+    H.A.L.O. Pack is provided "AS IS" without any warranty, either express or implied.
+
+12. LIMITATION OF LIABILITY
+    Licensor shall not be liable for any incidental, indirect, special, or consequential damages arising from use or inability to use H.A.L.O. Pack.
+
+13. GLOBAL APPLICABILITY
+    This Agreement applies worldwide. By using H.A.L.O. Pack, Licensee agrees to abide by these terms regardless of geographic location.
+
+14. COMMUNITY AND FAIR USE
+    By using H.A.L.O. Pack, Licensee agrees to respect the license terms as a community trust that supports ongoing development. Unauthorized redistribution harms the community and the developer's ability to continue making free and paid tools.
+
+15. PRE-USE RITUAL
+    Before using this product, the Licensee is encouraged to:
+    - Stand up and stretch your legs to avoid blood clots.
+    - Choose a favorite mythical entity or spirit to pray to for a productive, stress-free day.
+    - Take a sip of water to stay hydrated.
+
+    Failure to perform these rituals may result in bad vibes and unforeseen software quirks. Proceed at your own risk.
+
+    Note: This clause is purely for fun and is not legally binding. However, the rest of the Agreement definitely is — so please read it carefully!
+
+Thank you for supporting indie development by using H.A.L.O. Pack responsibly and respecting this license.
+
+By using H.A.L.O. Pack, you agree to the terms above. If you have questions about this license, please contact me.
